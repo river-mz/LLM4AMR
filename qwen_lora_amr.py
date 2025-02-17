@@ -40,7 +40,7 @@ def process_func(example, antibiotics):
     
     # 构建指令
     instruction = tokenizer(
-        f"<|im_start|>system\nYou are an expert in predicting antibiotic resistance for {antibiotics} based on patient data. Please output the prediction results.<|im_end|>\n<|im_start|>user\n{feature_str}<|im_end|>\n<|im_start|>assistant\n",
+        f"<|im_start|>system\nYou are an expert in predicting antibiotic resistance for {antibiotics} based on patient electronic healthe records. Please output the prediction results.<|im_end|>\n<|im_start|>user\n{feature_str}<|im_end|>\n<|im_start|>assistant\n",
         add_special_tokens=False,
     )
     
@@ -134,7 +134,7 @@ for label in labels_list:
             feature = x_train[i]
             label = y_train[i]
             message = { # to edit
-                    "instruction": f"You are an expert in prediction of antimicrobial resistance for {antimicrobial}, and you will receive gene feature sequences. Please output the prediction results.",
+                    "instruction": f"You are an expert in prediction of antimicrobial resistance for {antimicrobial}, and you will receive patients’ electronic health record features. Please output the prediction results.",
                     # "input":antimicrobial +": "+feature,
                     "input": feature,
                     "output": label,
