@@ -174,9 +174,10 @@ for label in labels_list:
             learning_rate=1e-5,
             save_on_each_node=True,
             gradient_checkpointing=True, # time change spece
-            report_to="none",
+            report_to=["tensorboard"],
             lr_scheduler_type = "polynomial",
             seed = 0,
+            
         )
 
         #set trainer
