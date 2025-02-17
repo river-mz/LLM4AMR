@@ -1,5 +1,6 @@
 # LLM for AMR Prediction
-Finetuning QWen
+Finetuning Qwen with patients' electronic health records to predict antimicrobial resistances for target antibiotics. 
+
 - Step1. create a conda environment: 
     conda create -n llm4amr python==3.9
     conda activate llm4amr
