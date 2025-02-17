@@ -194,7 +194,7 @@ for label in labels_list:
         y_label = []
         y_pred = []
         for i in range(0,len_test,1): 
-            instruction = f"You are an expert in prediction of antimicrobial resistance for {antimicrobial}, and you will receive gene feature sequences. Please output the prediction results."
+            instruction = f"You are an expert in prediction of antimicrobial resistance for {antimicrobial}, and you will receive patients' electronic health records. Please output the prediction results."
             # feature = antimicrobial +": " + x_test[i]
             feature = x_test[i]
             message = [

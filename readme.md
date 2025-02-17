@@ -1,5 +1,5 @@
 # LLM for AMR Prediction
-
+Finetuning QWen
 - Step1. create a conda environment: 
     conda create -n llm4amr python==3.9
     conda activate llm4amr

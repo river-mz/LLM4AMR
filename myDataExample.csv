@@ -1,0 +1,101 @@
+Unnamed: 0,age,race,veteran,gender,BMI,previous_antibiotic_exposure_cephalosporin,previous_antibiotic_exposure_carbapenem,previous_antibiotic_exposure_fluoroquinolone,previous_antibiotic_exposure_polymyxin,previous_antibiotic_exposure_aminoglycoside,previous_antibiotic_exposure_nitrofurantoin,previous_antibiotic_resistance_ciprofloxacin,previous_antibiotic_resistance_levofloxacin,previous_antibiotic_resistance_nitrofurantoin,previous_antibiotic_resistance_sulfamethoxazole,resistance_nitrofurantoin,resistance_sulfamethoxazole,resistance_ciprofloxacin,resistance_levofloxacin,source,dept_ER,dept_ICU,dept_IP,dept_OP,dept_nan,Enterococcus_faecium,Staphylococcus_aureus,Klebsiella_pneumoniae,Acinetobacter_baumannii,Pseudomonas_aeruginosa,Enterobacter,organism_other,organism_NA,additional_note
+0,54.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+1,27.0,0.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Tumor, complicated Urinary Tract Infection"
+2,89.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, DM, DMcx, complicated Urinary Tract Infection"
+3,49.0,1.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Anemia, complicated Urinary Tract Infection"
+4,21.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Liver, uncomplicated Urinary Tract Infection"
+5,47.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"DM, Psychoses, complicated Urinary Tract Infection"
+6,76.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, PVD, complicated Urinary Tract Infection"
+7,18.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+8,53.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Pulmonary, Depression, complicated Urinary Tract Infection"
+9,82.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"HTN, CHF, complicated Urinary Tract Infection"
+10,17.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+11,64.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+12,59.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, Tumor, Mets, complicated Urinary Tract Infection"
+13,90.0,1.0,0.0,0.0,,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, FluidsLytes, DM, Anemia, Renal, HTNcx, Coagulopathy, Psychoses, WeightLoss, PHTN, complicated Urinary Tract Infection"
+14,53.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Lymphoma, complicated Urinary Tract Infection"
+15,25.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"FluidsLytes, complicated Urinary Tract Infection"
+16,82.0,1.0,0.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,,,0.0,1.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Pulmonary, CHF, FluidsLytes, Obesity, DM, PVD, Renal, Valvular, Coagulopathy, DMcx, Tumor, Psychoses, WeightLoss, PHTN, complicated Urinary Tract Infection"
+17,35.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+18,62.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,1.0,US,0,1,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Hypothyroid, Pulmonary, CHF, FluidsLytes, DM, Valvular, WeightLoss, Liver, complicated Urinary Tract Infection"
+19,74.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, DM, PVD, Renal, Paralysis, NeuroOther, Valvular, HTNcx, WeightLoss, Liver, complicated Urinary Tract Infection"
+20,21.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"FluidsLytes, complicated Urinary Tract Infection"
+21,16.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+22,69.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,,,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"HTN, Hypothyroid, Depression, FluidsLytes, Renal, NeuroOther, WeightLoss, complicated Urinary Tract Infection"
+23,41.0,0.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, Tumor, Mets, complicated Urinary Tract Infection"
+24,72.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"HTN, DM, Valvular, complicated Urinary Tract Infection"
+25,12.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+26,76.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Arrhythmia, Pulmonary, Obesity, DM, Tumor, complicated Urinary Tract Infection"
+27,56.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, NeuroOther, HIV, complicated Urinary Tract Infection"
+28,63.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+29,72.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Hypothyroid, Depression, FluidsLytes, Tumor, complicated Urinary Tract Infection"
+30,49.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Depression, FluidsLytes, DM, Renal, NeuroOther, complicated Urinary Tract Infection"
+31,19.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+32,51.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+33,16.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+34,36.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+35,35.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"FluidsLytes, Alcohol, Drugs, HIV, complicated Urinary Tract Infection"
+36,26.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+37,65.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, FluidsLytes, Tumor, WeightLoss, Liver, Mets, complicated Urinary Tract Infection"
+38,18.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+39,21.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Depression, complicated Urinary Tract Infection"
+40,52.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"HTN, Pulmonary, FluidsLytes, Rheumatic, complicated Urinary Tract Infection"
+41,76.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Depression, FluidsLytes, Tumor, complicated Urinary Tract Infection"
+42,87.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+43,74.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Pulmonary, CHF, FluidsLytes, DM, Anemia, Valvular, complicated Urinary Tract Infection"
+44,73.0,1.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, FluidsLytes, HTNcx, Tumor, WeightLoss, Mets, complicated Urinary Tract Infection"
+45,90.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"HTN, Pulmonary, CHF, FluidsLytes, Anemia, BloodLoss, Renal, HTNcx, PHTN, complicated Urinary Tract Infection"
+46,39.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Depression, Obesity, complicated Urinary Tract Infection"
+47,60.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, complicated Urinary Tract Infection"
+48,54.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+49,45.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Obesity, uncomplicated Urinary Tract Infection"
+50,90.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, PVD, Renal, HTNcx, complicated Urinary Tract Infection"
+51,22.0,0.0,0.0,0.0,,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+52,31.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Tumor, WeightLoss, complicated Urinary Tract Infection"
+53,32.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+54,53.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Pulmonary, DM, uncomplicated Urinary Tract Infection"
+55,20.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Pulmonary, uncomplicated Urinary Tract Infection"
+56,73.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Pulmonary, complicated Urinary Tract Infection"
+57,64.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+58,90.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Pulmonary, CHF, FluidsLytes, complicated Urinary Tract Infection"
+59,69.0,1.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Depression, CHF, FluidsLytes, BloodLoss, NeuroOther, Valvular, WeightLoss, complicated Urinary Tract Infection"
+60,60.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"HTN, Lymphoma, DM, Tumor, Liver, Mets, complicated Urinary Tract Infection"
+61,29.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+62,82.0,1.0,1.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, FluidsLytes, NeuroOther, Valvular, complicated Urinary Tract Infection"
+63,35.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Pulmonary, complicated Urinary Tract Infection"
+64,7.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+65,88.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, FluidsLytes, Rheumatic, Anemia, WeightLoss, complicated Urinary Tract Infection"
+66,86.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, Pulmonary, CHF, Renal, Valvular, HTNcx, PHTN, complicated Urinary Tract Infection"
+67,22.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+68,52.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Depression, Obesity, uncomplicated Urinary Tract Infection"
+69,83.0,1.0,0.0,0.0,,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, FluidsLytes, DM, Renal, NeuroOther, Valvular, Psychoses, WeightLoss, complicated Urinary Tract Infection"
+70,21.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+71,36.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"NeuroOther, uncomplicated Urinary Tract Infection"
+72,29.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+73,63.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"CHF, FluidsLytes, Renal, HTNcx, complicated Urinary Tract Infection"
+74,29.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Pulmonary, uncomplicated Urinary Tract Infection"
+75,51.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Pulmonary, CHF, Paralysis, NeuroOther, complicated Urinary Tract Infection"
+76,36.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Anemia, uncomplicated Urinary Tract Infection"
+77,69.0,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"HTN, Pulmonary, CHF, FluidsLytes, DM, PVD, Renal, HTNcx, DMcx, Psychoses, WeightLoss, Drugs, complicated Urinary Tract Infection"
+78,90.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Hypothyroid, FluidsLytes, PVD, Valvular, complicated Urinary Tract Infection"
+79,57.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+80,18.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Depression, complicated Urinary Tract Infection"
+81,43.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Pulmonary, FluidsLytes, Obesity, DM, DMcx, complicated Urinary Tract Infection"
+82,88.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, PVD, Tumor, WeightLoss, complicated Urinary Tract Infection"
+83,32.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+84,85.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Hypothyroid, Depression, Tumor, complicated Urinary Tract Infection"
+85,60.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"NeuroOther, complicated Urinary Tract Infection"
+86,50.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,uncomplicated Urinary Tract Infection
+87,51.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Renal, complicated Urinary Tract Infection"
+88,68.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Hypothyroid, complicated Urinary Tract Infection"
+89,88.0,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+90,72.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, FluidsLytes, Renal, HTNcx, complicated Urinary Tract Infection"
+91,9.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,complicated Urinary Tract Infection
+92,83.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,US,0,0,1,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, DM, Valvular, Tumor, complicated Urinary Tract Infection"
+93,51.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Obesity, complicated Urinary Tract Infection"
+94,62.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, complicated Urinary Tract Infection"
+95,88.0,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"HTN, complicated Urinary Tract Infection"
+96,70.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, Depression, FluidsLytes, Valvular, Tumor, Liver, Mets, complicated Urinary Tract Infection"
+97,65.0,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"Arrhythmia, HTN, CHF, DM, Valvular, Alcohol, Tumor, complicated Urinary Tract Infection"
+98,85.0,1.0,1.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,US,1,0,0,0,0,0,0,0,0,0,0,0,1,"Pulmonary, DM, complicated Urinary Tract Infection"
+99,52.0,1.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,US,0,0,0,1,0,0,0,0,0,0,0,0,1,"HTN, Tumor, uncomplicated Urinary Tract Infection"
